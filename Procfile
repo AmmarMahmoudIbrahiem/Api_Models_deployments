@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 web: uvicorn Api_Models_deployments.Appp:app --host 0.0.0.0 --port $PORT
 =======
 web: uvicorn Api_Models_deployments.Appp:app --host 0.0.0.0 --port $PORT
